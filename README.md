@@ -17,19 +17,19 @@
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=webntricks.com&sz=64" width="40" alt=""></p>
       <h3 align="center"><a href="https://webntricks.com">Webntricks</a></h3>
       <p align="center">Digital studio in Cergy: AI-augmented e-commerce, ERP and CRM integrations, full-stack builds, SEO and maintenance.</p>
-      <p align="center"><sub>Project lead, site build and operations</sub></p>
+      <p align="center"><sub>Helped create the company · development, maintenance, testing, SEO, sales support</sub></p>
     </td>
     <td width="33%" valign="top">
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=auramur.fr&sz=64" width="40" alt=""></p>
       <h3 align="center"><a href="https://auramur.fr">AuraMur</a></h3>
-      <p align="center">Made-to-measure printed wallpaper, produced in France. I fine-tuned FLUX.2 9B on 2,500 of their designs to generate new patterns, and work on the web platform.</p>
-      <p align="center"><sub>AI engineering and web development</sub></p>
+      <p align="center">Made-to-measure printed wallpaper, produced in France. I helped build the brand and the web platform, and ran a research proof of concept: fine-tuning FLUX.2 9B on 2,500 of their designs to generate new patterns.</p>
+      <p align="center"><sub>Brand and platform · AI research and proof of concept</sub></p>
     </td>
     <td width="33%" valign="top">
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=sentinelo.fr&sz=64" width="40" alt=""></p>
       <h3 align="center"><a href="https://sentinelo.fr">Sentinelo</a></h3>
       <p align="center">Maintenance platform for agencies and freelancers: monitoring, backups and updates for WordPress, WooCommerce and PrestaShop sites, white-label.</p>
-      <p align="center"><sub>Platform development and maintenance</sub></p>
+      <p align="center"><sub>Helped create it · development, maintenance, testing, SEO, sales support</sub></p>
     </td>
   </tr>
 </table>
