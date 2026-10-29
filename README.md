@@ -39,10 +39,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p><a href="https://www.eco2net.ch"><img src="assets/logos/eco2net.png" height="34" alt="Eco2Net"></a></p>
       <h4>EcoPilot, an AI assistant inside Outlook</h4>
       Summarises and drafts e-mails, acts on the calendar, contacts and files, by chat or voice. OpenAI Assistants with tool calls, React/TypeScript, a C#/.NET VSTO extension for private mail servers. Used every day by the 50 office employees of a Swiss company since 2025.
     </td>
     <td width="50%" valign="top">
+      <p><a href="https://www.ohm-energie.com"><img src="assets/logos/ohm-energie.png" height="34" alt="OHM Énergie"></a></p>
       <h4>Middle Business CRM at OHM Énergie</h4>
       B2B energy subscription CRM in Symfony 6, built from architecture to production in a two-person team: multi-meter subscriptions, pricing, DocuSign contracts, a parallel processing engine for the Enedis/GRDF APIs (50 calls per second) and a real-time dashboard with 20+ KPIs.
     </td>
