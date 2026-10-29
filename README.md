@@ -17,7 +17,7 @@
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=webntricks.com&sz=64" width="40" alt=""></p>
       <h3 align="center"><a href="https://webntricks.com">Webntricks</a></h3>
       <p align="center">Digital studio in Cergy: AI-augmented e-commerce, ERP and CRM integrations, full-stack builds, SEO and maintenance.</p>
-      <p align="center"><sub>Helped create the company · development, maintenance, testing, SEO, sales support</sub></p>
+      <p align="center"><sub>Brand and platform: development, maintenance, testing, SEO and marketing support</sub></p>
     </td>
     <td width="33%" valign="top">
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=auramur.fr&sz=64" width="40" alt=""></p>
@@ -29,7 +29,7 @@
       <p align="center"><img src="https://www.google.com/s2/favicons?domain=sentinelo.fr&sz=64" width="40" alt=""></p>
       <h3 align="center"><a href="https://sentinelo.fr">Sentinelo</a></h3>
       <p align="center">Maintenance platform for agencies and freelancers: monitoring, backups and updates for WordPress, WooCommerce and PrestaShop sites, white-label.</p>
-      <p align="center"><sub>Helped create it · development, maintenance, testing, SEO, sales support</sub></p>
+      <p align="center"><sub>Brand and platform: development, maintenance, testing, SEO and marketing support</sub></p>
     </td>
   </tr>
 </table>
