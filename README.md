@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Haroun Joudi, AI engineer and full-stack developer" width="100%">
+  <img src="assets/banner.png" alt="Haroun Joudi, AI engineer and full-stack developer" width="100%">
 </p>
 
 <p align="center">
