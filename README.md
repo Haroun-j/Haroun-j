@@ -95,4 +95,4 @@
 
 ### Contact
 
-Based near Paris, open to AI engineering and full-stack roles. harounjoudi.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/haroun-joudi-33b9422a0)
+Based near Paris, open to AI engineering and full-stack roles. harounjoudi.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/haroun-joudi)
